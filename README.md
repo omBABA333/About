@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @omBABA333
-- 👀 I’m interested in 
-- 🌱 I’m currently learning SQL,python,JAVA,C++,C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me with my emailid ____ AHEROM333@GMAIL.COM
+ Hi, myself Om
+ I'm an artist, drawing sketches for creative living, and right now I'm making room for improvement.
+ Trust me I can Draw:)
 
 <!---
 omBABA333/omBABA333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
